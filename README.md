@@ -28,7 +28,10 @@ List of Design system in this repo was inspired by [Awesome React Design Systems
 - [Seek Style Guide](https://seek-oss.github.io/seek-style-guide/) [[github](https://github.com/seek-oss/seek-style-guide)] - Seek - Living style guide for SEEK, powered by React, webpack, CSS Modules and Less.
 - [SpareBank 1's Design System](https://design.sparebank1.no/) [[github](https://github.com/SpareBank1/designsystem)] - SpareBank - A common language across disciplines, to ensure consistent design in our solutions.
 - [Spark Design System](https://sparkdesignsystem.com/) [[github](https://github.com/sparkdesignsystem/spark-design-system)] - Quicken Loans - A system of patterns and components used to create the user interface for the Quicken Loans family of Fintech products.
-- [Swarm Design System](https://meetup.github.io/swarm-design-system/) [[github](https://github.com/meetup/swarm-design-system)] - Meetup - A set of UI components ready for use by designers and engineers to quickly ship new products and features.
 - [Uniform](http://uniform.hudl.com/) - Hudl - The system includes
   components, visual guidelines, language and additional resources to help
   you build more cohesive product interfaces.
+
+#### Misc.
+
+- [React Material Design Icons](https://jxnblk.com/rmdi/) [[github](https://github.com/jxnblk/rmdi)] - Brent Jackson - Built with Pixo, Styled Components, and Styled System.
