@@ -13,9 +13,13 @@ List of Design system in this repo was inspired by [Awesome React Design Systems
 
 - [Ant Design](https://ant.design/) [[github](https://github.com/ant-design/ant-design/)] - Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
 - [Atlaskit](http://atlaskit.atlassian.com/) [[bitbucket](https://bitbucket.org/atlassian/atlaskit-mk-2)] - Atlassian - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
+- [Base Web](https://baseweb.design/) [[github](https://github.com/uber/baseweb)] - Uber - Base Web is a foundation for initiating, evolving, and unifying web products.
 - [Blueprint](http://blueprintjs.com/) [[github](https://github.com/palantir/blueprint)] - Palantir - A React-based UI toolkit for the web
+- [Chakra UI](https://chakra-ui.com/getting-started) [[github](https://github.com/chakra-ui/chakra-ui/tree/master/packages/chakra-ui)] - Chakra UI - Create a theme object to include custom color, typography, and layout values. Chakra UI comes with a default theme, so this step is optional.
 - [Canvas](https://canvas.hubspot.com/) [[github](https://github.com/HubSpot/canvas)] - Hubspot - HubSpot Canvas is the design system that we at HubSpot use to build our products.
 - [Carbon Design System](http://carbondesignsystem.com/) [[github](https://github.com/carbon-design-system/carbon-components)] - IBM - The Carbon Design System is integrating the new IBM Design Ethos and Language.
+- [Evergreen](https://evergreen.segment.com/get-started/introduction) [[github](https://github.com/segmentio/evergreen)] - Evergreen - a pragmatic UI kit for building evolving products on the web. It is built and maintained open-source by Segment.
+- [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/get-started) [[github](https://github.com/microsoft/fluentui)] - Microsoft - Fluent UI React is the official open-source React front-end framework designed to build experiences that fit seamlessly into a broad range of Microsoft products. It provides robust, up-to-date, accessible components which are highly customizable using CSS-in-JS.
 - [cf-ui](https://cloudflare.github.io/cf-ui/) [[github](https://github.com/cloudflare/cf-ui)] - Cloudflare - A set of packages used to build UIs at Cloudflare using projects such as React.
 - [Grommet](http://grommet.io/) [[github](https://github.com/grommet/grommet)] - Hewlett Packard - Grommet provides all the guidance, components, and design resources you need to take your ideas from concept to a real application.
 - [Hack Club Design System](https://design.hackclub.com) [[github](https://github.com/hackclub/design-system)] - Hack Club - A collection of React components designed for speed, consistency, and best practices.
@@ -25,7 +29,10 @@ List of Design system in this repo was inspired by [Awesome React Design Systems
 - [Pluralsight Design System](https://design-system.pluralsight.com/) [[github](https://github.com/pluralsight/design-system)] - Pluralsight - The UI building blocks for creating a cohesive design across Pluralsight products.
 - [Polaris](https://polaris.shopify.com/) [[github](https://github.com/Shopify/polaris)] - Shopify - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
 - [Priceline One](https://pricelinelabs.github.io/design-system/) [[github](https://github.com/pricelinelabs/design-system)] - Priceline - A design system focused on speed, consistency, and best practices.
+- [React-bootstrap](https://react-bootstrap.github.io/) [[github] (https://github.com/react-bootstrap/react-bootstrap)] - Bootstrap - The most popular front-end framework rebuilt for React.
+- [RebaseJS](https://rebassjs.org/) [[github] (https://github.com/rebassjs/rebass)] - React primitive UI components built with Styled System.
 - [Seek Style Guide](https://seek-oss.github.io/seek-style-guide/) [[github](https://github.com/seek-oss/seek-style-guide)] - Seek - Living style guide for SEEK, powered by React, webpack, CSS Modules and Less.
+- [Semantic-UI-React](https://react.semantic-ui.com/) [[github](https://github.com/Semantic-Org/Semantic-UI-React)] - Semantic-Ui - Semantic UI React is the official React integration for Semantic UI .
 - [SpareBank 1's Design System](https://design.sparebank1.no/) [[github](https://github.com/SpareBank1/designsystem)] - SpareBank - A common language across disciplines, to ensure consistent design in our solutions.
 - [Spark Design System](https://sparkdesignsystem.com/) [[github](https://github.com/sparkdesignsystem/spark-design-system)] - Quicken Loans - A system of patterns and components used to create the user interface for the Quicken Loans family of Fintech products.
 - [Uniform](http://uniform.hudl.com/) - Hudl - The system includes
