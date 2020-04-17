@@ -31,17 +31,15 @@ List of Design system in this repo was inspired by [Awesome React Design Systems
 - [Pluralsight Design System](https://design-system.pluralsight.com/) [[github](https://github.com/pluralsight/design-system)] - Pluralsight - The UI building blocks for creating a cohesive design across Pluralsight products.
 - [Polaris](https://polaris.shopify.com/) [[github](https://github.com/Shopify/polaris)] - Shopify - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
 - [Priceline One](https://pricelinelabs.github.io/design-system/) [[github](https://github.com/pricelinelabs/design-system)] - Priceline - A design system focused on speed, consistency, and best practices.
-- [React-bootstrap](https://react-bootstrap.github.io/) [[github] (https://github.com/react-bootstrap/react-bootstrap)] - Bootstrap - The most popular front-end framework rebuilt for React.
-- [react-desktop](http://reactdesktop.js.org/) [[github] (https://github.com/gabrielbull/react-desktop)] - react-desktop - react-desktop is a JavaScript library built on top of Facebook's React library, which aims to bring a native desktop experience to the web, featuring many macOS Sierra and Windows 10 components. 
-- [React SuiteJS](https://rsuitejs.com/en/) [[github] (https://github.com/rsuite/rsuite)] - React Suitejs - A suite of React components, sensible UI design, and a friendly development experience.
-- [RebaseJS](https://rebassjs.org/) [[github] (https://github.com/rebassjs/rebass)] - React UI components built with Styled System.
+- [React-bootstrap](https://react-bootstrap.github.io/) [[github](https://github.com/react-bootstrap/react-bootstrap)] - Bootstrap - The most popular front-end framework rebuilt for React.
+- [react-desktop](http://reactdesktop.js.org/) [[github](https://github.com/gabrielbull/react-desktop)] - react-desktop - react-desktop is a JavaScript library built on top of Facebook's React library, which aims to bring a native desktop experience to the web, featuring many macOS Sierra and Windows 10 components. 
+- [React SuiteJS](https://rsuitejs.com/en/) [[github](https://github.com/rsuite/rsuite)] - React Suitejs - A suite of React components, sensible UI design, and a friendly development experience.
+- [RebaseJS](https://rebassjs.org/) [[github](https://github.com/rebassjs/rebass)] - React UI components built with Styled System.
 - [Seek Style Guide](https://seek-oss.github.io/seek-style-guide/) [[github](https://github.com/seek-oss/seek-style-guide)] - Seek - Living style guide for SEEK, powered by React, webpack, CSS Modules and Less.
 - [Semantic-UI-React](https://react.semantic-ui.com/) [[github](https://github.com/Semantic-Org/Semantic-UI-React)] - Semantic-Ui - Semantic UI React is the official React integration for Semantic UI .
 - [SpareBank 1's Design System](https://design.sparebank1.no/) [[github](https://github.com/SpareBank1/designsystem)] - SpareBank - A common language across disciplines, to ensure consistent design in our solutions.
 - [Spark Design System](https://sparkdesignsystem.com/) [[github](https://github.com/sparkdesignsystem/spark-design-system)] - Quicken Loans - A system of patterns and components used to create the user interface for the Quicken Loans family of Fintech products.
-- [Uniform](http://uniform.hudl.com/) - Hudl - The system includes
-  components, visual guidelines, language and additional resources to help
-  you build more cohesive product interfaces.
+- [Uniform](http://uniform.hudl.com/) - Hudl - The system includes components, visual guidelines, language and additional resources to help you build more cohesive product interfaces.
 
 
 #### Misc.
