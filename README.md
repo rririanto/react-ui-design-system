@@ -39,6 +39,7 @@ List of Design system in this repo was inspired by [Awesome React Design Systems
 - [Semantic-UI-React](https://react.semantic-ui.com/) [[github](https://github.com/Semantic-Org/Semantic-UI-React)] - Semantic-Ui - Semantic UI React is the official React integration for Semantic UI .
 - [SpareBank 1's Design System](https://design.sparebank1.no/) [[github](https://github.com/SpareBank1/designsystem)] - SpareBank - A common language across disciplines, to ensure consistent design in our solutions.
 - [Spark Design System](https://sparkdesignsystem.com/) [[github](https://github.com/sparkdesignsystem/spark-design-system)] - Quicken Loans - A system of patterns and components used to create the user interface for the Quicken Loans family of Fintech products.
+- [Theme UI](https://theme-ui.com/) [[github](https://github.com/system-ui/theme-ui)] - Theme UI - Build consistent, themeable React apps based on constraint-based design principles.
 - [Uniform](http://uniform.hudl.com/) - Hudl - The system includes components, visual guidelines, language and additional resources to help you build more cohesive product interfaces.
 
 
